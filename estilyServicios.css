@@ -1,0 +1,22 @@
+.group__title {
+	color: red ;
+	padding-top: 30px;
+}
+.servicios  .column {
+	margin-bottom: 40px;
+	text-align: center;
+	border: 5px solid ;
+	padding: 20px;
+}
+.servicios a {
+	text-decoration: none;
+}
+.servicios img {
+	margin: auto;
+	max-width: 350px;
+
+}
+.column .servicio {
+	text-decoration: none;
+	color: black;
+}
